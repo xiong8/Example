@@ -57,12 +57,14 @@
     </tr>
     <tr height="100">
         <td>教育经历:</td>
-       <td colspan="6">
-           小学<br/>
-           初中<br/>
-           高中<br/>
-           大学<br/>
-       </td>
+      <td>教育经历</td>
+        <td>
+<select name="教育经历">
+<option>小学</option>
+<option>初中</option>
+<option>高中</option>
+<option>大学</option>
+</td>
     </tr>
     <tr>
         <td>外语水平:</td>
